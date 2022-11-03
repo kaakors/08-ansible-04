@@ -1,0 +1,10 @@
+---
+clickhouse:
+  hosts:
+    ansible_host: <>
+vector:
+  hosts:
+    ansible_host: <>
+lighthouse:
+  hosts:
+    ansible_host: <>
